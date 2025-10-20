@@ -8,6 +8,7 @@ const App = () => {
     return (
         <main>
             <Navbar />
+            <div className="h-[200vh] bg-green-200"></div>
         </main>
     )
 }
